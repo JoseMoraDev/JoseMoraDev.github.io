@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+	<body style="background-color:lightgray;">
+        <style>
+            p{
+            font-size:20px;
+            font-family:"Verdana";
+            }
+            </style>
+        <p>Jose Antonio Mora González</p>
+        
+        <br>
+        <img src="html.gif", width="700px" style="margin-left:14%;">
+        <br>
+
+
+		<h1 style="font-family:Arial, Helvetica, sans-serif; font-size:60px; text-align: center; color:darkred">ESTRUCTURA BASICA DE UNA PAGINA WEB</h1>
+
+		<p><pre style="font-family:Verdana, Times, Candara; font-size:20px;">
+            NOTA: Para tener el código correcto, eliminar los asteriscos, se ha escrito así para poder visualizar las etiquetas en el navegador
+            <br>
+            <*!*DOCTYPE html> --> Indica el tipo de documento al navegador, este tipo de etiqueta no necesita etiqueta de cierre.
+                              --> Las etiquetas que no necesitan etiquetas de cierre se llaman etiquetas vacías.
+                              --> HTML significa Hyper Text Markup Language, Lenguaje de Marcado de HiperTexto
+                              --> HTML no distingue entre mayúsculas y minúsculas
+                              --> Todos los documentos HTML deben empezar con esta etiqueta
+                              --> Representa el tipo de documento, es para HTML5
+                              --> No es case sensitive, lo que significa que no distingue entre mayúsculas y minúsculas
+
+            <*html lang="es"> --> HTML indica el comienzo de la página
+                              --> Además, el atributo lang="es " declara el idioma predeterminado que la página utiliza.
+
+                <*head> --> Es la cabecera de la página
+                    <*title> --> Este es el título de la página que se mostrará en la pestaña del navegador <*/title>
+                             --> El título de la página siempre va dentro de las etiquetas de apertura y cierre <*title> y <*/title>
+                             --> Las etiquetas de apertura y cierre <*title> y <*/title> siempre se escriben dentro de las etiquetas de apertura y cierre de la cabecera 
+                <*/head> --> Fin de la cabecera de la página
+
+                <*body> --> Es el cuerpo de la página, contiene la información que visualizará el usuario
+                    <*h1> --> Aquí se pone el título y sale agrandado, se explicará a continuación <*/h1> 
+                    <*p>
+                        --> Aquí va un párrafo, se explicará a continuación
+                    <*/p> --> Fin del párrafo
+                <*/body> --> Fin del cuerpo de la página
+            <*/html> --> fin de la página HTML
+        </p></pre>
+
+
+
+        <br><br>
+        <h1 style="font-family:Arial, Helvetica, sans-serif; font-size:60px; text-align: center; color:darkred;">ETIQUETAS HTML EN UNA PÁGINA WEB</h1>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">JERARQUÍAS DE TÍTULOS</h2>
+            <h1><*h1>Esto es un título 1<*/h1></h1>
+            <h2><*h2>Esto es un título 2<*/h2></h2>
+            <h3><*h3>Esto es un título 3<*/h3></h3>
+            <h4><*h4>Esto es un título 4<*/h4></h4>
+            <h5><*h5>Esto es un título 5<*/h5></h5>
+            <h6><*h6>Esto es un título 6<*/h6></h6>
+            <p>El h1 es el título mas importante, solo hay que utilizarlo para los títulos principales</p>
+            <p>El h2 se debe de utilizar para los títulos normales</p>
+            <p>El h3 se utiliza para los títulos menos importantes</p>
+            <p>Y así sucesivamente hasta el h6</p>
+            <p>Nota importante: Aunque cada etiqueta h tiene un formato (tipo, tamaño de fuente...) predeterminado, no hay que utilizar estas etiquetas <*hnumero> para resaltar y/o dar formato al texto. Solo deben emplearse para indicar la jerarquía de títulos.  </p>
+
+        <br><br>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">CREAR HIPERENLACES A OTRAS PÁGINAS WEB</h2>
+        <p>Con este código insertamos un hiperenlace en nuestra página web: <*a href="https://www.DirecciónWeb.com">Texto sobre el que clickar<*/a></p>
+        <p>Aplicando el código de arriba obtenemos el siguiente resultado:</p> 
+        <p><a href="the_matrix.html"> Visitar la ampliación del trabajo HTML </a></p>
+        <p> El hiperenlace se mete dentro de las etiquetas de apertura y cierre de párrafo <*p><*/p> </p>
+
+
+
+        <br><br>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">INSERTAR IMÁGENES</h2>
+        <p>¿Cual es la manera de insertar una imagen como esta en nuestra web?</p>
+        <img src="carpeta/hcabecera.jpg" alt="La imagen no se ha podido cargar" title="Cabecera HTML" width="750px" height="200px";>
+        <p>El código que se ha utilizado es: <*img src="hcabecera.jpg" alt="La imagen no se ha podido cargar" title="Cabecera HTML" width="1000px" height="270px";></p>
+        <p> Expliquemos un poco el código:</p>
+        <p> --> <*img> es la etiqueta que empleamos para decirle al navegador que vamos a insertar una imagen. Es una etiqueta vacía, por lo que no requiere etiqueta de cierre.</p>
+        <p> --> src es el atributo donde especificamos la ruta de la imagen a mostrar.  </p>
+        <p> --> alt es el texto alternativo que solo se mostrará si la imagen no se ha podido cargar</p>
+        <p> --> title me permite asignar un título a un elemento, que se mostrará cuando el usuario pase por encima el ratón </p>
+        <p> --> width indica el ancho de la imagen en píxeles si se pone px después del número, o en porcentaje si se pone 25% por ejemplo</p>
+
+<br><br>
+        <p>Según la url o direccion en la que se ubique la imagen, distinguimos tres tipos de inserción:</p>
+        <h3 style="font-family:Times, Verdana, Candara; font-size:40px; text-align: left; color:orange;"> INSERCION ABSOLUTA </h3>
+        <p>Dentro del atributo src de la etiqueta imagen indicamos la dirección url externa en la que se encuentra la misma:</p>
+        <p>Por ejemplo: <*img src="http://4.bp.blogspot.com/-HkHoqQuxUQE/UXmuXLTl0UI/AAAAAAAAiyY/VYsiOVFBPQg/s1600/the-end.jpg"> </p>
+
+        <h3 style="font-family:Times, Verdana, Candara; font-size:40px; text-align: left; color:orange;"> INSERCION RELATIVA </h3>
+        <p>La imagen se encuentra dentro del directorio en el que tenemos nuestra web, dentro de una de las carpetas del mismo. </p>
+        <p>Veamos un ejemplo: <*img src="carpeta/hcabecera.jpg"></p>
+
+
+        <h3 style="font-family:Times, Verdana, Candara; font-size:40px; text-align: left; color:orange;"> INSERCION DIRECTA </h3>
+        <p>En este caso, la imagen se encuentra en el directorio de trabajo, pero en la misma carpeta que la página, por lo que solo neceitamos indicar el nombre y extensión de la imagen:</p>
+        <p>Ejemplo de inserción directa:  <*img src="html.gif"> </p>
+
+        <br><br>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">INSERTAR REGLAS</h2>
+        <p>Para insertar una regla lo hacemos con la etiqueta vacia <*hr></p>
+        <hr>
+        <p>Puedo colorear la regla con el atributo color</p>
+        <p>Con <*hr color="red"> consigo este efecto:</p>
+        <hr color="red">
+
+
+        <br><br>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">INSERTAR SALTOS DE LINEA</h2>
+        <p>
+            Dentro de un párrafo <*p> puedo hacer <*br>
+            <br> saltos de línea <*br>
+            <br> utilizando la etiqueta <*br>
+        </p>
+
+
+        <br><br>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">ESPACIOS Y TABULACIONES EN HTML</h2>
+        <p>Párrafo de Ejemplo:
+            Html no tiene en cuenta los espacios de mas      que introducimos en el código ni las                     tabulaciones.
+
+
+            Y tampoco los intros.
+        </p>
+        <p>Utilizando las etiquetas de apertura <*pre> y de cierre <*/pre> conseguimos que tenga en cuenta y muestra por pantalla todos los espacios, tabulaciones e intros.</p>
+        <p>Veamos que ocurre con el párrafo de ejemplo cuando aplicamos la etiqueta <*pre> sobre el código tal cual había sido escrito:</p>
+<pre style="font-family:Verdana, Times, Candara; font-size:20px;"><*p>
+    <*pre>
+        Párrafo de Ejemplo:
+            Html no tiene en cuenta los espacios de mas      que introducimos en el código ni las                     tabulaciones.
+
+
+            Y tampoco los intros.
+    <*/pre>
+<*/p></pre></p>
+        <br><p>En momentos puntuales la etiqueta <*pre> puede ser de gran utilidad</p>
+
+
+        <br><br>
+        <h2 style="font-family:courier new, Helvetica, sans-serif; font-size:55px; text-align: left; color:red;">FORMATO DEL TEXTO</h2>
+
+        <h3 style="font-family:Times, Verdana, Candara; font-size:40px; text-align: left; color:orange;"> ATRIBUTO STYLE Y SUS PARÁMETROS</h3>
+        <p> Se utiliza el atributo style sobre un párrafo <*p> o un título <*h1> o otros elementos de texto </p>
+        <p> el atributo style permite modificar parámetros de la fuente como el color, tamaño, tipo de letra, o la alineación del texto</p>
+   
+        <br>
+        <h4 style="font-family:Optima, Ginebra, Calibri; font-size:40px; text-align: left; color:darkgoldenrod;">COLOR DEL TEXTO</h4>
+            <p> Para cambiar el color de un elemento, por ejemplo de un párrafo se hace de la siguiente manera</p>
+            <p style="color:blue";> <*p style="color:blue";> Este es un párrafo de ejemplo en color azul <*/p> </p>
+
+        <br>
+        <h4 style="font-family:Optima, Ginebra, Calibri; font-size:40px; text-align: left; color:darkgoldenrod;">TAMAÑO DE LA FUENTE</h4>
+            <p>se utiliza el parámetro font-size del atributo style: Se puede indicar el tamaño en píxeles o en porcentaje relativo:</p>
+            <p style="font-size:30px;"><*p style="font-size:30px;"> Ejemplo de tamaño de fuente a 30 píxeles <*/p></p>
+            <p style="font-size:150%;"><*p style="font-size:150%;"> Ejemplo de tamaño de fuente al 150% <*/p></p>
+
+        <br>
+        <h4 style="font-family:Optima, Ginebra, Calibri; font-size:40px; text-align: left; color:darkgoldenrod;">TIPOGRAFÍA DE LETRA</h4>
+            <p>Cambiamos el tipo de letra utilizando el parámetro font-family del atributo style, por ejemplo: </p>
+            <p style="font-family:verdana;"><*p style="font-family:verdana;">El tipo de fuente empleado en este párrafo es Verdana<*/p></p>
+
+
+
+        <br>
+        <h4 style="font-family:Optima, Ginebra, Calibri; font-size:40px; text-align: left; color:darkgoldenrod;">ALINEACIÓN DEL TEXTO</h4>
+            <p>Para alinear un párrrafo utilizamos el parámetro text-align del atributo style. Text-align me permite elegir distintas opciones, las cuales son:</p>
+            <p style="text-align:left;"><*p style="text-align:left;">Alinear el párrafo a la izquierda<*/p></p>
+            <p style="text-align:center;"><*p style="text-align:center;">Alinear el párrafo al centro<*/p></p>
+            <p style="text-align:right;"><*p style="text-align:right;">Alinear el párrafo a la derecha<*/p></p>
+       
+
+
+            <h3 style="font-family:Times, Verdana, Candara; font-size:40px; text-align: left; color:orange;">COLOR DE FONDO DE LA PÁGINA</h3>
+            <p>Si utilizamos el parámetro background-color del atributo style sobre la etiqueta body, es posible cambiar el color de fondo de toda la páquina</p>
+            <p>Veamos el ejemplo aplicado en esta web: <*body style="background-color:lightgray;"></p>
+
+
+        <br><br><br><br>
+        <img src="http://4.bp.blogspot.com/-HkHoqQuxUQE/UXmuXLTl0UI/AAAAAAAAiyY/VYsiOVFBPQg/s1600/the-end.jpg", width="200px" style="margin-left:44%;">
+	</body>
+
+</html>
