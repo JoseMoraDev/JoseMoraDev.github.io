@@ -4,7 +4,7 @@
 
 Soy un estudiante de **Desarrollo de Aplicaciones Web**, segundo curso. Tengo 14 años de experiencia en el mundo del calzado (administración, producción…), y también me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*
 
-Nacido en 1986, he tenido, y tengo cada día, el valor de **apostar por mí**, aprendiendo a diario, cambiando de rama profesional, y aplicando mi **experiencia laboral y personal**.
+Nacido en 1986, he tenido, y tengo cada día, el valor de **apostar por mí**, aprendiendo a diario, y aplicando mi **experiencia laboral y personal**.
 
 
 <img src="a.png" alt="mi_foto" width="250"/>
