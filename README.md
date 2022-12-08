@@ -2,45 +2,69 @@
 
 ## ¿Quién soy?
 
-Soy un estudiante de segundo de Daw, que además de ser una **máquina**, estoy aprendiendo *markdown* y **Github pages**.
+Soy un estudiante de **Diseño de Aplicaciones Web**, segundo curso. Tengo 14 años de experiencia en el mundo del calzado (administración, producción…), y también me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*
 
-Mi instituto es el [Severo Ochoa en Elche](https://www.fpelx.es/wp-content/uploads/2021/02/WhatsApp-Image-2021-05-21-at-20.30.246.jpeg)
+Nacido en 1986, he tenido, y tengo cada día, el valor de **apostar por mí**, aprendiendo a diario, cambiando de rama profesional, y aplicando mi **experiencia laboral y personal**.
 
-![Foto del frontal del instituto](severo.jpeg)
 
-## ¿Qué estoy aprendiendo?
+<img src="a.png" alt="mi_foto" width="250"/>
+
+
+<br/>
+
+## ¿Cómo me defino?
+
+Soy **perfeccionista**. Me gusta hacer las cosas bien y cuidar los detalles, pues en ellos está la diferencia entre lo común y lo extraordinario.
+
+Soy **exigente conmigo mismo**, porque un trabajo bien hecho es un trabajo del que puedo sentirme satisfecho.
+
+Soy una **persona honesta**, procuro no equivocarme, pero si me equivoco, reconozco mis errores y **aprendo de ellos**. Además, me tomo enserio lo que hago y pongo mucha atención en ello.
+
 
 Me gusta programar en Python:
-``` python
 
-aficiones = ["dar clase de interfaces","dormir la siesta"]
+    `source jose/proyecto-env/activate`
+
+    `cd ..`
+
+    `cd proyecto`
+
+    `python manage.py runserver`
+
+``` python
+tipos_de_notacion = ["camelCase", "PascalCase", "snake_case", "kebab-case"]
+
 print(aficiones)
 ```
+<br/>
 
-Un comando que no hay que olvidar es `python manage.py runserver`, y siempre se me olvida.
+## Asignaturas
 
-Otras tecnologías que he aprendido han sido:
+Las asignaturas en las que me estoy formando y sus aspectos mas relevantes son
 
-* SQL
-* Java Básico
-    1. Clases
-    1. Colecciones
-    1. Ficheros
-* HTML y CSS
-    * HTML 5
-* JavaScript
-    * Arrays
-* Python
+* Desarrollo WEB en entorno servidor 
+    *  Django
+* Desarrollo WEB en entorno cliente 
+    *  JavaScript
+* Despliegue de aplicaciones WEB
+    *  Ubuntu 22
+* Diseño de interfaces WEB
+    1.  HTML5
+    1.  CSS3
+    1.  Bootstrap5
 
-Y los módulos que me han gustado han sido:
 
-| Sí    |   No
+<br/>
+
+## ¿Qué me gusta?
+| Tema    |   Puntuación
 | ----  | ---- |
-| BD    |   Programación    |
-| Desarrollo en Servidor    |   Diseño De Interfaces    |
+| Bicileta de montaña    |   10    |
+| Guitarra eléctrica    |   6    |
+| Animales    |   9    |
 
-
+<br/>
 
 ## ¿Dónde encontrarme?
 
-Me puedes encontrar en twitter [@86jamg](www.twitter.com/86jamg@gmail.com) y por correo en [86jamg@gmail.com](mailto:86jamg@gmail.com).
+Ponte en contacto conmigo por correo [86jamg@gmail.com](mailto:86jamg@gmail.com), o por whatsapp en el 698-925-781
