@@ -2,7 +2,7 @@
 
 ## ¿Quién soy?
 
-Soy un estudiante de **Diseño de Aplicaciones Web**, segundo curso. Tengo 14 años de experiencia en el mundo del calzado (administración, producción…), y también me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*
+Soy un estudiante de **Desarrollo de Aplicaciones Web**, segundo curso. Tengo 14 años de experiencia en el mundo del calzado (administración, producción…), y también me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*
 
 Nacido en 1986, he tenido, y tengo cada día, el valor de **apostar por mí**, aprendiendo a diario, cambiando de rama profesional, y aplicando mi **experiencia laboral y personal**.
 
@@ -33,8 +33,6 @@ Me gusta programar en Python:
 
 ``` python
 tipos_de_notacion = ["camelCase", "PascalCase", "snake_case", "kebab-case"]
-
-print(aficiones)
 ```
 <br/>
 
@@ -47,7 +45,7 @@ Las asignaturas en las que me estoy formando y sus aspectos mas relevantes son
 * Desarrollo WEB en entorno cliente 
     *  JavaScript
 * Despliegue de aplicaciones WEB
-    *  Ubuntu 22
+    *  Ubuntu
 * Diseño de interfaces WEB
     1.  HTML5
     1.  CSS3
@@ -59,7 +57,7 @@ Las asignaturas en las que me estoy formando y sus aspectos mas relevantes son
 ## ¿Qué me gusta?
 | Tema    |   Puntuación
 | ----  | ---- |
-| Bicileta de montaña    |   10    |
+| Bicicleta de montaña    |   10    |
 | Guitarra eléctrica    |   6    |
 | Animales    |   9    |
 
@@ -67,4 +65,4 @@ Las asignaturas en las que me estoy formando y sus aspectos mas relevantes son
 
 ## ¿Dónde encontrarme?
 
-Ponte en contacto conmigo por correo [86jamg@gmail.com](mailto:86jamg@gmail.com), o por whatsapp en el 698-925-781
+Puedes ponerte en contacto conmigo por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
