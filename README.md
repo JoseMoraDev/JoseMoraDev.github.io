@@ -38,7 +38,7 @@ tipos_de_notacion = ["camelCase", "PascalCase", "snake_case", "kebab-case"]
 
 ## Asignaturas
 
-Las asignaturas en las que me estoy formando y sus aspectos mas relevantes son
+Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes son
 
 * Desarrollo WEB en entorno servidor 
     *  Django
