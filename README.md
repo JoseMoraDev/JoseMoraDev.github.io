@@ -51,7 +51,7 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
     1.  CSS3
     1.  Bootstrap5
 
-(En este link puedes el tiempo que he dedicado en los últimos 30 dias a programar)[https://wakatime.com/share/@JoseMoraDev/1d83f2b0-9468-465e-be99-bb376299fd2f.svg]
+[En este link puedes el tiempo que he dedicado en los últimos 30 dias a programar](https://wakatime.com/share/@JoseMoraDev/1d83f2b0-9468-465e-be99-bb376299fd2f.svg)
 
 
 <br/>
