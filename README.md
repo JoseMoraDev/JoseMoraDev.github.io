@@ -78,9 +78,12 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 
 <br/>
 
+## ¿Quieres escuchar un tema mío?
 <audio controls>
      <source src="solo_versos.mp3" type='audio/mpeg; codecs="mp3"'>
 </audio>
+
+<br/>
 
 ## ¿Dónde encontrarme?
 
