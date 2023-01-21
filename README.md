@@ -78,6 +78,8 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 
 <br/>
 
+[[audio-{solo_versos.wma}-{Uno de mis solos de guitarra}]]
+
 ## ¿Dónde encontrarme?
 
 Puedes ponerte en contacto conmigo por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
