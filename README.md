@@ -65,7 +65,7 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 
 
 ## ¡En acción tocando la guitarra!
-<video src="https://youtu.be/gYhEN0Lct2E?t=182"></video>
+<iframe src="https://www.youtube.com/embed/gYhEN0Lct2E?start=182"></iframe>
 
 <br/>
 
