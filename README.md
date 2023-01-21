@@ -70,6 +70,7 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
     <source src="https://youtu.be/gYhEN0Lct2E?t=182" type="video/mp4">
 </video>
 ![type:video](.bike_comp.mp4)
+![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
 
 <br/>
 
