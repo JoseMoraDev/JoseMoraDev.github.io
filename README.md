@@ -57,11 +57,11 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 <br/>
 
 ## ¿Qué me gusta?
-| Tema | Puntuación |
-| ---- | ---- |
-| Bicicleta de montaña | 10 |
-| Guitarra eléctrica | 6 |
-| Animales | 9 |
+| Tema | Puntuación
+| ---- | ----
+| Bicicleta de montaña | 10
+| Guitarra eléctrica | 6
+| Animales | 9
 
 <br/>
 
