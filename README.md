@@ -71,7 +71,7 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 </video>
 
 ## ¡Tocando todos los instrumentos!
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/gYhEN0Lct2E" title="1CAM FULL SONG COVER - MEGADETH - A tout le monde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="792" height="594" src="https://www.youtube.com/embed/gYhEN0Lct2E" title="1CAM FULL SONG COVER - MEGADETH - A tout le monde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
