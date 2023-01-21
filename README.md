@@ -78,7 +78,9 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 
 <br/>
 
-[[audio-{solo_versos.wma}-{Uno de mis solos de guitarra}]]
+<audio controls>
+     <source src="solo_versos.mp3" type='audio/mpeg; codecs="mp3"'>
+</audio>
 
 ## ¿Dónde encontrarme?
 
