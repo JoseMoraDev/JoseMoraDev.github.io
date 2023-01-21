@@ -65,18 +65,9 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 
 
 ## ¡En acción tocando la guitarra!
-<video>
-    <source src="blob:https://www.youtube.com/7ec5e86f-b469-4c6f-84d0-5cf23d415674" type="video/mp4">
-    <source src="https://youtu.be/gYhEN0Lct2E?t=182" type="video/mp4">
-</video>
-![type:video](bike_comp.mp4)
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
-
 <video width="400"  controls>
   <source src="bike_comp.mp4" type="video/mp4">
 </video>
-
-[Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=FEa2diI2qgA)
 
 <br/>
 
