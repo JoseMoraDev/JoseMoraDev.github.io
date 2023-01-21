@@ -70,6 +70,13 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
     Tu navegador no soporta vídeo
 </video>
 
+## ¡Tocando todos los instrumentos!
+<video width="100%" controls>
+  <source src="https://youtu.be/gYhEN0Lct2E?t=182" type="video/mp4">
+    Tu navegador no soporta vídeo
+</video>
+
+
 <br/>
 
 ## ¿Dónde encontrarme?
