@@ -64,8 +64,8 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 | Animales    |   9    |
 
 
-## ¡En acción sobre la bici!
-<video src=bike_comp.mp4></video>
+## ¡En acción tocando la guitarra!
+<video src="https://youtu.be/gYhEN0Lct2E?t=182"></video>
 
 <br/>
 
