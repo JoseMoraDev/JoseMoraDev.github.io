@@ -65,7 +65,7 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
 
 
 ## ¡En acción sobre la bici!
-<video src="https://github.com/JoseMoraDev/JoseMoraDev.github.io/blob/main/bike_comp.mp4"></video>
+<video src="bike_comp.mp4"></video>
 
 <br/>
 
