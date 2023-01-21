@@ -76,6 +76,8 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
   <source src="bike_comp.mp4" type="video/mp4">
 </video>
 
+[Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=FEa2diI2qgA)
+
 <br/>
 
 ## ¿Dónde encontrarme?
