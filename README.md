@@ -36,7 +36,7 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
     * JavaScript, Vue.js, Bootstrap5, CSS3, Chart.js (gráficos), HTML5
     * Todo ello aplicado al realizar mi app "Presión Arterial Médica AMPA", una Single Page Application reactiva basada en Vue.js
 * Desarrollo web en entorno servidor
-    * PHP, Python y su framework Django, Djoser, Visual Basic.NET
+    * PHP, Visual Basic.NET, Python y su framework Django, autenticación mediante Djoser y JWT
     * Realización de un portfolio funcional en PHP y una app securizada (Djoser+JWT) para autoevaluación de los alumnos con Django
 * Sistemas Operativos
     * Windows 10 y 11, Linux Ubuntu Jellyfish, Configuración Apache y Nginx
