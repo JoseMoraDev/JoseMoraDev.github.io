@@ -67,6 +67,7 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 	
 
 ## Experiencia por orden de importancia
+
 * Vue.js
 ** Proyecto final de curso "Presión Arterial Médica AMPA"
 *** Descripción:
