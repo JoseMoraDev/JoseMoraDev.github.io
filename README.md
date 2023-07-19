@@ -76,7 +76,7 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 		* Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar-refactorizar querys y verificar el rendimiento.
   	* Desarrollo en entorno servidor
   		* Formularios y otras funcionalidades para personalizar/ampliar SAP
-  	* Crystal Reports
+  	 * Crystal Reports
     		* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
   	* Sharepoint
     		* Administración, creación y mantenimiento de usuarios, informes y permisos.
