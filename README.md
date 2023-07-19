@@ -2,12 +2,11 @@
 
 ## ¿Quién soy?
 
-Soy un developer junior, titulado en **Desarrollo de Aplicaciones Web**. Tengo 14 años de experiencia en el mundo del calzado, principalmente en las áreas de desarrollo de muestras, y responsable de distintas áreas de producción. También me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*.
-
-Mi meta de hoy es esforzarme por ser mejor que ayer.
+Soy un developer junior, titulado en **Desarrollo de Aplicaciones Web**. 
+Tengo 14 años de experiencia en el mundo del calzado, especialmente en el área de desarrollo de muestrarios, y como responsable en distintas áreas de producción. 
+Además, me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*.
 
 <img src="a.png" alt="mi_foto" width="250"/>
-
 
 <br/>
 
@@ -21,21 +20,22 @@ Soy una **persona honesta**, porque procuro no equivocarme, pero si me equivoco,
 
 Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente** como sea posible.
 
+Mi meta de hoy es esforzarme por ser mejor que ayer.
+
 
 ## ¿Cuáles son mis conocimientos?
 
 * Bases de datos
     * Transact SQL, MySQL
-* Desarollo web en entorno cliente, y diseño de interfaces web
-    * JavaScript, Vue.js, Bootstrap5, CSS3, HTML5, Chart.js
+    * Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs
+* Desarrollo de páginas WEB e interfaces responsive
+    * JavaScript, Vue.js, Bootstrap5, CSS3, Chart.js (gráficos), HTML5
+    * Todo ello aplicado al realizar mi app "Presión Arterial Médica AMPA", una Single Page Application basada en Vue.js
 * Desarrollo web en entorno servidor
-    * PHP, Django, Djoser, Visual Basic.NET
+    * PHP, Python y su framework Django, Djoser, Visual Basic.NET
+    * Realización de un portfolio funcional en PHP y una app securizada (Djoser+JWT) para autoevaluación de los alumnos con Django
 * Sistemas Operativos
     * Windows 10 y 11, Linux Ubuntu Jellyfish, Configuración Apache y Nginx
-
-
-
-Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes son
 
 * Otros
     * Administrar tareas programadas en Microsoft Windows Server. Gestión de permisos y cuentas.
