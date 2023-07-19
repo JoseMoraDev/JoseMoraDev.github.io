@@ -77,13 +77,13 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
   	* Desarrollo en entorno servidor
   		* Formularios y otras funcionalidades para personalizar/ampliar SAP
   	 * Crystal Reports
-    		* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
+  	 	* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
   	* Sharepoint
-    		* Administración, creación y mantenimiento de usuarios, informes y permisos.
+  		* Administración, creación y mantenimiento de usuarios, informes y permisos.
 	* OneNote
 		* Creación de documentación y tutoriales
 	* SAP
-	    	* Resolución de incidencias buscando en la BBDD y en el código de VB.NET
+ 		* Resolución de incidencias buscando en la BBDD y en el código de VB.NET
 	    	* Creación y modificación de informes mediante el diseñador de layouts de SAP
 	    	* Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
 	    	* Manejo a nivel usuario
