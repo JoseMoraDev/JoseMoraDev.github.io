@@ -30,12 +30,6 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 ## Experiencia demostrable
 
-	* 
-	* Crystal Reports
-	* Task Manager
-	* Sharepoint
-	* OneNote
-
 ### Formación FCT + DUAL (800 horas) en multinacional
 * Testing
 	* Testeo de funcionalidades especificas, reportando el fallo y la casuística que lo produce
