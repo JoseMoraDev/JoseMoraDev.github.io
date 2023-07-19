@@ -2,54 +2,49 @@
 
 ## ¿Quién soy?
 
-Soy un estudiante de **Desarrollo de Aplicaciones Web**, segundo curso. Tengo 14 años de experiencia en el mundo del calzado (administración, producción…), y también me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*
+Soy un developer junior, titulado en **Desarrollo de Aplicaciones Web**. Tengo 14 años de experiencia en el mundo del calzado, principalmente en las áreas de desarrollo de muestras, y responsable de distintas áreas de producción. También me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*.
 
-Nacido en 1986, he tenido, y tengo cada día, el valor de **apostar por mí**, aprendiendo a diario, y aplicando mi **experiencia laboral y personal**.
-
+Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 <img src="a.png" alt="mi_foto" width="250"/>
 
 
 <br/>
 
-## ¿Cómo me defino?
+## Conoce más sobre mí
 
-Soy **perfeccionista**. Me gusta hacer las cosas bien y cuidar los detalles, pues en ellos está la diferencia entre lo común y lo extraordinario.
+Soy un **perfeccionista**. Cuido los detalles, pues en ellos está la diferencia entre hacer el trabajo y **hacer un buen trabajo**.
 
-Soy **exigente conmigo mismo**, porque un trabajo bien hecho es un trabajo del que puedo sentirme satisfecho.
+Soy **exigente conmigo mismo**, ya que estoy acostumbrado a trabajar **bajo presión y con fechas ajustadas**.
 
-Soy una **persona honesta**, procuro no equivocarme, pero si me equivoco, reconozco mis errores y **aprendo de ellos**. Además, me tomo enserio lo que hago y pongo mucha atención en ello.
+Soy una **persona honesta**, porque procuro no equivocarme, pero si me equivoco, reconozco mis errores y **aprendo de ellos**. 
+
+Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente** como sea posible.
 
 
-Me gusta programar en Python:
+## ¿Cuáles son mis conocimientos?
 
-    `source jose/proyecto-env/activate`
+* Bases de datos
+    * Transact SQL, MySQL
+* Desarollo web en entorno cliente, y diseño de interfaces web
+    * JavaScript, Vue.js, Bootstrap5, CSS3, HTML5, Chart.js
+* Desarrollo web en entorno servidor
+    * PHP, Django, Djoser, Visual Basic.NET
+* Sistemas Operativos
+    * Windows 10 y 11, Linux Ubuntu Jellyfish, Configuración Apache y Nginx
 
-    `cd ..`
 
-    `cd proyecto`
-
-    `python manage.py runserver`
-
-``` python
-tipos_de_notacion = ["camelCase", "PascalCase", "snake_case", "kebab-case"]
-```
-<br/>
-
-## Asignaturas
 
 Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes son
 
-* Desarrollo WEB en entorno servidor 
-    *  Django
-* Desarrollo WEB en entorno cliente 
-    *  JavaScript
-* Despliegue de aplicaciones WEB
-    *  Ubuntu
-* Diseño de interfaces WEB
-    1.  HTML5
-    1.  CSS3
-    1.  Bootstrap5
+* Otros
+    * Administrar tareas programadas en Microsoft Windows Server. Gestión de permisos y cuentas.
+    * Crystal reports. Crear, conectar a procedimientos de la BBDD, campos de fórmula.
+    * Sharepoint. Administración de informes y permisos.
+    * OneNote, elaboración de documentación de tareas. 
+    * XAMPP
+    * Selenium
+    * PHPCake
 
 
 <br/>
@@ -59,11 +54,6 @@ Las asignaturas en las que me estoy formando y sus tecnologías mas relevantes s
   <source src="bike_comp.mp4" type="video/mp4">
     Tu navegador no soporta vídeo
 </video>
-
-<br/>
-
-## ¡Tocando todos los instrumentos!
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/gYhEN0Lct2E" title="1CAM FULL SONG COVER - MEGADETH - A tout le monde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
 
