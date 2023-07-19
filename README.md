@@ -53,21 +53,6 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 <br/>
 
-## ¡En acción sobre la bici!
-<video width="100%" controls>
-  <source src="bike_comp.mp4" type="video/mp4">
-    Tu navegador no soporta vídeo
-</video>
-
-<br/>
-
-## ¿Quieres escuchar un tema mío?
-<audio controls>
-     <source src="solo_versos.mp3" type='audio/mpeg; codecs="mp3"'>
-</audio>
-
-<br/>
-
 ## ¿Dónde encontrarme?
 
 Puedes ponerte en contacto conmigo por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
