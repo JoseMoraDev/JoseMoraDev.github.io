@@ -26,10 +26,10 @@ Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente*
 
 Mi meta de hoy es esforzarme por ser mejor que ayer.
 
-
+<br/>
 
 ## Experiencia demostrable
-
+<br/>
 ### Formación FCT + DUAL (800 horas) en multinacional
 * Testing
 	* Testeo de funcionalidades especificas, reportando el fallo y la casuística que lo produce
@@ -58,6 +58,8 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 ## Proyecto final de curso "Presión Arterial Médica AMPA"
 * Descripción: Single Page Application para gestionar la presión arterial
 * Tecnologías empleadadas: Vue.js, Javascript, Bootstrap5, CSS3, Chart.js, MySQL, Django, Djoser, JWT, XAMPP, HTML5
+
+<br/>
 
 ## Formación GS Desarrollo de Aplicaciones Web
 * Testing
