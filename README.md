@@ -84,12 +84,12 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 		* Creación de documentación y tutoriales
 	* SAP
  		* Resolución de incidencias buscando en la BBDD y en el código de VB.NET
-	    	* Creación y modificación de informes mediante el diseñador de layouts de SAP
-	    	* Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
-	    	* Manejo a nivel usuario
+   		* Creación y modificación de informes mediante el diseñador de layouts de SAP
+     		* Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
+       		* Manejo a nivel usuario
 	* Otros
-    		* Traslado de equipos y HW enre puestos de trabajo. Configuración de teclados y ratones inalámbricos.
-	    	* Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, outlook, SAP
+ 		* Traslado de equipos y HW enre puestos de trabajo. Configuración de teclados y ratones inalámbricos.
+   		* Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, outlook, SAP
 
 <br/>
 
