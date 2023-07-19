@@ -27,37 +27,50 @@ Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente*
 Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 
-## ¿Cuáles son mis conocimientos?
+## Tecnologías que conozco
 
-* Bases de datos
-    * Transact SQL, MySQL
-    * Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar-refactorizar querys y verificar el rendimiento.
-* Desarrollo de páginas WEB e interfaces responsive
-    * JavaScript, Vue.js, Bootstrap5, CSS3, Chart.js (gráficos), HTML5
-    * Todo ello aplicado al realizar mi app "Presión Arterial Médica AMPA", una Single Page Application reactiva basada en Vue.js
-* Desarrollo web en entorno servidor
-    * PHP, Visual Basic.NET, Python y su framework Django, autenticación mediante Djoser y JWT
-    * Realización de un portfolio funcional en PHP y una app securizada (Djoser+JWT) para autoevaluación de los alumnos con Django
-    * Formularios y otras funcionalidades para personalizar/ampliar SAP
-* Crystal Reports
-    * Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
-* Sharepoint
-    * Administración, creación y mantenimiento de usuarios, informes y permisos.
-* OneNote
-    * Creación de documentación y tutoriales
-* SAP
-    * Resolución de incidencias buscando en la BBDD y en el código de VB.NET
-    * Creación y modificación de informes mediante el diseñador de layouts de SAP
-    * Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
-    * Manejo a nivel usuario
-* Sistemas Operativos
-    * Windows 10 y 11, Linux Ubuntu Jellyfish, Configuración Apache y Nginx
-* Otros
-    * Traslado de equipos y HW enre puestos de trabajo. Configuración de teclados y ratones inalámbricos.
-    * Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, outlook, sap
-    * XAMPP
-    * Selenium
-    * PHPCake
+* Testing
+	* Selenium
+* BBDD/Almacenamiento
+	* Transact-SQL
+	* MySQL
+	* JSON, XML, XHTML, Xpath
+* Desarrollo Front-end
+	* Vue.js
+	* JavaScript
+	* Bootstrap5
+	* CSS3
+	* Chart.js (biblioteca gráficos)
+	* HTML5
+	* XAMPP
+* Desarrollo Back-end
+	* Python
+	* Django
+	* PHP
+	* Djoser
+	* JWT
+	* Visual Basic.NET
+	* Java
+	* PHPCake
+	* Docker
+* Recursos
+	* Git
+	* Mkdocs, Markdown
+	* SAP Business One
+	* Crystal Reports
+	* Task Manager
+	* Sharepoint
+	* OneNote
+	* Sistemas Operativos Windows 10 y 11, Linux Ubuntu 22 Jellyfish
+	* Nginx, Apache
+	* Terminal de Linux
+	
+
+## Experiencia por orden de importancia
+	* Vue.js
+	** Proyecto final de curso "Presión Arterial Médica AMPA"
+	*** Descripción:
+	*** Tecnologías empleadadas:
 
 
 
