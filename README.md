@@ -69,25 +69,25 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 ## Experiencia demostrable
 
 ### Formación FCT + DUAL (800 horas) en multinacional
-Testing
+* Testing
 	* Testeo de funcionalidades especificas, reportando el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo de todas las formas posibles, pruebas de rendimiento.
-Bases de datos
+* Bases de datos
 	* Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar-refactorizar querys y verificar el rendimiento.
-Desarrollo en entorno servidor
+* Desarrollo en entorno servidor
 	* Formularios y otras funcionalidades para personalizar/ampliar SAP
-Crystal Reports
+* Crystal Reports
  	* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
-Sharepoint
+* Sharepoint
 	* Administración, creación y mantenimiento de usuarios, informes y permisos.
-OneNote
+* OneNote
 	* Creación de documentación y tutoriales
-SAP
+* SAP
 	* Resolución de incidencias buscando en la BBDD y en el código de VB.NET
 	* Creación y modificación de informes mediante el diseñador de layouts de SAP
 	* Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
 	* Manejo a nivel usuario
-Otros
+* Otros
 	* Traslado de equipos y HW enre puestos de trabajo. Configuración de teclados y ratones inalámbricos.
 	* Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, outlook, SAP
 
