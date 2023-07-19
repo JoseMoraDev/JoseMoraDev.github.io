@@ -32,7 +32,7 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 <br/>
 
-### Formación FCT + DUAL (800 horas) en multinacional
+### Formación FCT + DUAL (800 horas) en multinacional - (Finaliza 9 de agosto)
 * Testing
 	* Testeo de funcionalidades especificas, elaborando documentación sobre el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
