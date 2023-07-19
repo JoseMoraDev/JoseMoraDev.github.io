@@ -34,8 +34,8 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 ### Formación FCT + DUAL (800 horas) en multinacional
 * Testing
-	* Testeo de funcionalidades especificas, reportando el fallo y la casuística que lo produce
-	* Simular pedidos de compra, buscar el fallo de todas las formas posibles, pruebas de rendimiento.
+	* Testeo de funcionalidades especificas, elaborando documentación sobre el fallo y la casuística que lo produce
+	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
 * Bases de datos
 	* Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar-refactorizar querys y verificar el rendimiento.
 * Desarrollo en entorno servidor
