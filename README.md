@@ -42,7 +42,8 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 ## Proyecto final de curso "Presión Arterial Médica AMPA"
 * ¿Qué es? Una single Page Application para gestionar la presión arterial
 * Tecnologías empleadadas: Vue.js, Javascript, Bootstrap5, CSS3, Chart.js, MySQL, Django, Djoser, JWT, XAMPP, HTML5
-* Cuéntame mas: Cada componente es una funcionalidad de la aplicación, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Este proyecto supone la puesta en práctica de todas las tecnologías que he aprendido de forma teórico-práctica en el CFGS de DAW.
+* Cuéntame mas: La aplicación se estructura en componentes, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Se ha trabajado ampliamente la interfaz y los efectos de coloración de las presiones arteriales. Se realizan peticiones asíncronas a la API del backend.
+* Este proyecto supone la puesta en práctica de todas las tecnologías que he aprendido de forma teórico-práctica en el CFGS de DAW.
 
 <br/>
 
