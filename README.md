@@ -79,19 +79,19 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 
 ## Conoce más sobre mí
 
-Soy **proactivo**, siempre he estado aprendiendo y/o trabajando.
+**Proactivo**, siempre he estado aprendiendo y/o trabajando.
 
-Soy **perfeccionista**. Cuido los detalles, en ellos está la diferencia entre hacer el trabajo y **hacer un buen trabajo**.
+**Perfeccionista**. Cuido los detalles, y la **calidad de mi trabajo**.
 
-Soy **exigente conmigo mismo**, ya que estoy acostumbrado a trabajar **bajo presión y con fechas ajustadas**.
+**Exigente conmigo mismo**, acostumbrado a trabajar **bajo presión y deadlines**.
 
-Soy **honesto**, porque si me equivoco, reconozco mis errores y **aprendo de ellos**. 
+**Honesto**, reconozco mis errores y **aprendo de ellos**. 
 
-Me gusta **trabajar en equipo, cooperar,** y me realiza poder **explicar conocimientos y ayudar** a mis compañeros.
+**Trabajo en equipo, coopero,** y me realiza poder **explicar y ayudar** a mis compañeros.
 
-Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente** como sea posible.
+**Me tomo enserio lo que hago** procuro ser **eficaz y eficiente**.
 
-Mi meta de hoy es esforzarme por ser mejor que ayer.
+Mi meta de hoy es **esforzarme por ser mejor** que ayer.
 
 <br/>
 
