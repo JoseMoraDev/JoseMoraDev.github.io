@@ -48,7 +48,7 @@ Tengo 14 años de experiencia, principalmente en el mundo del calzado, habitualm
 
 ## Formación: CFGS Desarrollo de Aplicaciones Web - 2 años
 * Testing
-	* Selenium
+	* Selenium, automatización de pruebas
 * BBDD/Almacenamiento
 	* MySQL
 	* JSON, XML, XHTML, Xpath
