@@ -40,12 +40,13 @@ Tengo 14 años de experiencia, principalmente en el mundo del calzado, habitualm
 <br/>
 
 ## Proyecto final de curso "Presión Arterial Médica AMPA"
-* Descripción: Single Page Application para gestionar la presión arterial
+* ¿Qué es? Una single Page Application para gestionar la presión arterial
 * Tecnologías empleadadas: Vue.js, Javascript, Bootstrap5, CSS3, Chart.js, MySQL, Django, Djoser, JWT, XAMPP, HTML5
+* Cuéntame mas: Cada componente es una funcionalidad de la aplicación, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Este proyecto supone la puesta en práctica de todas las tecnologías que he aprendido de forma teórico-práctica en el CFGS de DAW.
 
 <br/>
 
-## Formación GS Desarrollo de Aplicaciones Web
+## Formación: CFGS Desarrollo de Aplicaciones Web - 2 años
 * Testing
 	* Selenium
 * BBDD/Almacenamiento
