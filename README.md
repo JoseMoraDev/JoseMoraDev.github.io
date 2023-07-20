@@ -2,11 +2,11 @@
 
 ## ¿Quién soy?
 
-Soy un programador web junior, titulado en **Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa de Elche. 
+Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa de Elche. 
 
 Actualmente terminé la FCT y estoy acabando la Formación Dual.
 
-Tengo 14 años de experiencia principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
+Tengo 14 años de experiencia, principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
 
 <img src="a.png" alt="mi_foto" width="250"/>
 
