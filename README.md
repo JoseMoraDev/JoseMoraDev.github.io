@@ -6,7 +6,7 @@ Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web
 
 Actualmente terminé la FCT y estoy acabando la Formación Dual.
 
-Tengo 14 años de experiencia, principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
+He trabajado principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
 
 <img src="a.png" alt="mi_foto" width="250"/>
 
