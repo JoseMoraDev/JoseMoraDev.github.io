@@ -2,9 +2,9 @@
 
 ## ¿Quién soy?
 
-Soy un developer junior, titulado en **Desarrollo de Aplicaciones Web**. 
-Tengo 14 años de experiencia en el mundo del calzado, especialmente en el área de desarrollo de muestrarios, y he sido responsable de distintas áreas de producción. 
-Además, me formé como *Técnico Superior de Sonido* y *Técnico en Explotación de Sistemas Informáticos*.
+Soy un programador web junior, titulado en **Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa de Elche. 
+Actualmente terminé la FCT y estoy acabando la Formación Dual.
+Tengo 14 años de experiencia principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
 
 <img src="a.png" alt="mi_foto" width="250"/>
 
@@ -34,7 +34,7 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 ### Formación FCT + DUAL (800 horas) en multinacional - (Finaliza 9 de agosto)
 * Testing
-	* Testeo de funcionalidades especificas, elaborando documentación sobre el fallo y la casuística que lo produce
+	* Testeo de páginas web como usuario final, elaborando documentación sobre el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
 * Bases de datos
 	* Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar-refactorizar querys y verificar el rendimiento.
@@ -42,8 +42,6 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 	* Creación de formularios y otras funcionalidades con Visual Basic.NET para personalizar/ampliar SAP
 * Crystal Reports
  	* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
-* Sharepoint
-	* Administración, creación y mantenimiento de usuarios, informes y permisos.
 * OneNote
 	* Creación de documentación y tutoriales
 * SAP Business One
@@ -52,8 +50,8 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 	* Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
 	* Manejo a nivel usuario
 * Otros
-	* Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, outlook, SAP
-	* Traslado de equipos y HW enre puestos de trabajo. Configuración de teclados y ratones inalámbricos.
+	* Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, SAP, mailing
+	* Support
 
 <br/>
 
@@ -74,7 +72,7 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 	* JavaScript
 	* Bootstrap5
 	* CSS3
-	* Chart.js (biblioteca gráficos)
+	* Chart.js
 	* HTML5
 	* XAMPP
 * Desarrollo Back-end
@@ -84,13 +82,11 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 	* Djoser
 	* JWT
 	* Java
-	* PHPCake
 	* Docker
 * Recursos
 	* Git
 	* Mkdocs, Markdown
 	* Nginx, Apache
-	* Comandos complejos en terminal de Linux
 	* Sistemas Operativos Windows 10 y 11, Linux Ubuntu 22 Jellyfish
 
 
