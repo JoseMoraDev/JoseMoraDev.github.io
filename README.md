@@ -12,25 +12,7 @@ Tengo 14 años de experiencia principalmente en el mundo del calzado, habitualme
 
 <br/>
 
-## Conoce más sobre mí
-
-Soy **proactivo**, siempre he estado aprendiendo y/o trabajando.
-
-Soy **perfeccionista**. Cuido los detalles, en ellos está la diferencia entre hacer el trabajo y **hacer un buen trabajo**.
-
-Soy **exigente conmigo mismo**, ya que estoy acostumbrado a trabajar **bajo presión y con fechas ajustadas**.
-
-Soy **honesto**, porque si me equivoco, reconozco mis errores y **aprendo de ellos**. 
-
-Me gusta **trabajar en equipo, cooperar,** y me realiza poder **explicar conocimientos y ayudar** a mis compañeros.
-
-Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente** como sea posible.
-
-Mi meta de hoy es esforzarme por ser mejor que ayer.
-
-<br/>
-
-## Experiencia demostrable
+## Experiencia
 
 <br/>
 
@@ -91,9 +73,26 @@ Mi meta de hoy es esforzarme por ser mejor que ayer.
 	* Nginx, Apache
 	* Sistemas Operativos Windows 10 y 11, Linux Ubuntu 22 Jellyfish
 
+<br/>
+
+## Conoce más sobre mí
+
+Soy **proactivo**, siempre he estado aprendiendo y/o trabajando.
+
+Soy **perfeccionista**. Cuido los detalles, en ellos está la diferencia entre hacer el trabajo y **hacer un buen trabajo**.
+
+Soy **exigente conmigo mismo**, ya que estoy acostumbrado a trabajar **bajo presión y con fechas ajustadas**.
+
+Soy **honesto**, porque si me equivoco, reconozco mis errores y **aprendo de ellos**. 
+
+Me gusta **trabajar en equipo, cooperar,** y me realiza poder **explicar conocimientos y ayudar** a mis compañeros.
+
+Además, **me tomo enserio lo que hago** y procuro ser tan **eficaz y eficiente** como sea posible.
+
+Mi meta de hoy es esforzarme por ser mejor que ayer.
 
 <br/>
 
-## ¿Dónde encontrarme?
+## ¿Hablamos?
 
 Puedes ponerte en contacto conmigo por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
