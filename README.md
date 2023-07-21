@@ -4,7 +4,7 @@
 
 Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa. 
 
-Actualmente terminé la FCT y estoy acabando la Formación Dual.
+Actualmente terminé la FCT (400 horas) y estoy acabando la Formación Dual (400 horas).
 
 He trabajado principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
 
@@ -21,20 +21,20 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 	* Testeo de páginas web como usuario final, elaborando documentación sobre el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
 * Bases de datos
-	* Consultas T-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar-refactorizar querys y verificar el rendimiento.
+	* Consultas Transact-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar, refactorizar querys y verificar el rendimiento.
 * Desarrollo en entorno servidor
-	* Creación de formularios y otras funcionalidades con Visual Basic.NET para personalizar/ampliar SAP
+	* Creación de formularios y otras funcionalidades con Visual Basic.NET para personalizar/ampliar SAP mediante DI API.
 * Crystal Reports
-	* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
+	* Desarrollo de informes empleando campos de fórmula y parámetro, conectando a la BBDD mediante tablas, procedimientos almacenados, o vistas.
 * OneNote
 	* Creación de documentación y tutoriales
 * SAP Business One
 	* Resolución de incidencias buscando en la BBDD y en el código de VB.NET
-	* Creación y modificación de informes mediante el diseñador de layouts de SAP
-	* Envío y recepción de pedidos EDI entre compañías. (Electronic Data Interchange).
+	* Creación y modificación de informes mediante el diseñador de layouts nativo de SAP
+	* Envío y recepción de pedidos EDI entre multinacionales. (Electronic Data Interchange).
 	* Manejo a nivel usuario
 * Otros
-	* Creación y mantenimiento de tareas programadas, permisos y usuarios integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, SAP, mailing
+	* Creación y mantenimiento de tareas programadas, permisos, y usuarios, integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, SAP, mailing
 	* Support
 
 <br/>
