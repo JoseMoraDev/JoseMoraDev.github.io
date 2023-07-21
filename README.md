@@ -2,7 +2,7 @@
 
 ## ¿Quién soy?
 
-Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa de Elche. 
+Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa. 
 
 Actualmente terminé la FCT y estoy acabando la Formación Dual.
 
@@ -25,7 +25,7 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 * Desarrollo en entorno servidor
 	* Creación de formularios y otras funcionalidades con Visual Basic.NET para personalizar/ampliar SAP
 * Crystal Reports
- 	* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
+	* Desarrollo de informes usando campos de fórmula y parámetro, conectando a la BBDD mediante tablas o procedimientos almacenados.
 * OneNote
 	* Creación de documentación y tutoriales
 * SAP Business One
@@ -40,10 +40,14 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 <br/>
 
 ## Proyecto final de curso "Presión Arterial Médica AMPA"
-* ¿Qué es? Una single Page Application para gestionar la presión arterial
-* Tecnologías empleadadas: Vue.js, Javascript, Bootstrap5, CSS3, Chart.js, MySQL, Django, Djoser, JWT, XAMPP, HTML5
-* Cuéntame mas: La aplicación se estructura en componentes, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Se ha trabajado ampliamente la interfaz y los efectos de coloración de las presiones arteriales. Se realizan peticiones asíncronas a la API del backend.
-* Este proyecto supone la puesta en práctica de todas las tecnologías que he aprendido de forma teórico-práctica en el CFGS de DAW.
+
+* **¿Qué es?** Una single Page Application para gestionar la presión arterial
+
+* **Tecnologías empleadadas:** Vue.js, Javascript, Bootstrap5, CSS3, Chart.js, MySQL, Django, Djoser, JWT, XAMPP, HTML5
+
+* **Cuéntame mas:** La aplicación se estructura en componentes, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Se ha trabajado ampliamente la interfaz y los efectos de coloración de las presiones arteriales. Se realizan peticiones asíncronas a la API del backend.
+
+* Este proyecto supone la **puesta en práctica de todas las tecnologías que he aprendido** de forma teórico-práctica en el CFGS de DAW.
 
 <br/>
 
@@ -79,17 +83,17 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 
 ## Conoce más sobre mí
 
-**Proactivo**, siempre he estado aprendiendo y/o trabajando.
+**Proactivo**. Siempre he estado aprendiendo y/o trabajando.
 
 **Perfeccionista**. Cuido los detalles, y la **calidad de mi trabajo**.
 
-**Exigente conmigo mismo**, acostumbrado a trabajar **bajo presión y deadlines**.
+**Exigente conmigo mismo**. Acostumbrado a trabajar **bajo presión y deadlines**.
 
-**Honesto**, reconozco mis errores y **aprendo de ellos**. 
+**Honesto**. Reconozco mis errores y **aprendo de ellos**. 
 
 **Trabajo en equipo, coopero,** y me realiza poder **explicar y ayudar** a mis compañeros.
 
-**Me tomo enserio lo que hago** procuro ser **eficaz y eficiente**.
+**Me tomo enserio lo que hago**. Procuro ser **eficaz y eficiente**.
 
 Mi meta de hoy es **esforzarme por ser mejor** que ayer.
 
@@ -97,4 +101,4 @@ Mi meta de hoy es **esforzarme por ser mejor** que ayer.
 
 ## ¿Hablamos?
 
-Puedes ponerte en contacto conmigo por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
+Puedes ponerte en contacto **conmigo** por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
