@@ -101,4 +101,4 @@ Mi meta de hoy es **esforzarme por ser mejor** que ayer.
 
 ## ¿Hablamos?
 
-Puedes ponerte en contacto **conmigo** por email [86jamg@gmail.com](mailto:86jamg@gmail.com)
+Puedes ponerte en contacto **conmigo** en el email [86jamg@gmail.com](mailto:86jamg@gmail.com)
