@@ -17,23 +17,23 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 <br/>
 
 ### Formación FCT + DUAL (800 horas) en multinacional - (Finaliza 9 de agosto)
-* Testing
+* **Testing**
 	* Testeo de páginas web como usuario final, elaborando documentación sobre el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
-* Bases de datos
+* **Bases de datos**
 	* Consultas Transact-SQL multitabla, vistas, funciones, procedimientos almacenados, jobs. Optimizar, refactorizar querys y verificar el rendimiento.
-* Desarrollo en entorno servidor
+* **Desarrollo en entorno servidor**
 	* Creación de formularios y otras funcionalidades con Visual Basic.NET para personalizar/ampliar SAP mediante DI API.
-* Crystal Reports
+* **Crystal Reports**
 	* Desarrollo de informes empleando campos de fórmula y parámetro, conectando a la BBDD mediante tablas, procedimientos almacenados, o vistas.
-* OneNote
+* **OneNote**
 	* Creación de documentación y tutoriales
-* SAP Business One
+* **SAP Business One**
 	* Resolución de incidencias buscando en la BBDD y en el código de VB.NET
 	* Creación y modificación de informes mediante el diseñador de layouts nativo de SAP
 	* Envío y recepción de pedidos EDI entre multinacionales. (Electronic Data Interchange).
 	* Manejo a nivel usuario
-* Otros
+* **Otros**
 	* Creación y mantenimiento de tareas programadas, permisos, y usuarios, integrando: Task manager, .ini, vb.net, tareas programadas, sharepoint, SAP, mailing
 	* Support
 
@@ -52,12 +52,12 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 <br/>
 
 ## Formación: CFGS Desarrollo de Aplicaciones Web - 2 años
-* Testing
+* **Testing**
 	* Selenium, automatización de pruebas
-* BBDD/Almacenamiento
+* **BBDD/Almacenamiento**
 	* MySQL
 	* JSON, XML, XHTML, Xpath
-* Desarrollo Front-end
+* **Desarrollo Front-end**
 	* Vue.js
 	* JavaScript
 	* Bootstrap5
@@ -65,7 +65,7 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 	* Chart.js
 	* HTML5
 	* XAMPP
-* Desarrollo Back-end
+* **Desarrollo Back-end**
 	* Python
 	* Django
 	* PHP
@@ -73,7 +73,7 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 	* JWT
 	* Java
 	* Docker
-* Recursos
+* **Recursos**
 	* Git
 	* Mkdocs, Markdown
 	* Nginx, Apache
