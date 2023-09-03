@@ -4,11 +4,11 @@
 
 Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa. 
 
-Actualmente terminé la FCT (400 horas) y estoy acabando la Formación Dual (400 horas).
+He finalizado mis prácticas de **FCT (400 horas)** y **Formación Dual (400 horas)** en Panama Jack.
 
-He trabajado principalmente en el mundo del calzado, habitualmente en puestos de responsabilidad.
+Mi proyecto de final de curso fue una **app reactiva** basada en **Vue.js**, con **servicios REST** que la comunican mediante una **API**, con el back-end.
 
-<img src="a.png" alt="mi_foto" width="250"/>
+<img src="a.png" alt="mi_foto" width="200"/>
 
 <br/>
 
@@ -16,7 +16,7 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 
 <br/>
 
-### Formación FCT + DUAL (800 horas) en multinacional - (Finaliza 9 de agosto)
+### Formación FCT + DUAL (800 horas) en multinacional - (Finalizada 9 de agosto 2023)
 * **Testing**
 	* Testeo de páginas web como usuario final, elaborando documentación sobre el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
@@ -41,11 +41,11 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 
 ## Proyecto final de curso "Presión Arterial Médica AMPA"
 
-* **¿Qué es?** Una single Page Application para gestionar la presión arterial
+* **¿Qué es?** Una SPA (Single Page Application) para gestionar la presión arterial
 
 * **Tecnologías empleadadas:** Vue.js, Javascript, Bootstrap5, CSS3, Chart.js, MySQL, Django, Djoser, JWT, XAMPP, HTML5
 
-* **Cuéntame mas:** La aplicación se estructura en componentes, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Se ha trabajado ampliamente la interfaz y los efectos de coloración de las presiones arteriales. Se realizan peticiones asíncronas a la API del backend.
+* **Cuéntame mas:** La aplicación se estructura en componentes reactivos, hay mucha lógica en el front-end con un backend sencillo, para minimizar los tiempos de carga y la experiencia del usuario. Se ha trabajado ampliamente la interfaz y los efectos de coloración de las presiones arteriales. Se realizan peticiones asíncronas a la API del backend.
 
 * Este proyecto supone la **puesta en práctica de todas las tecnologías que he aprendido** de forma teórico-práctica en el CFGS de DAW.
 
@@ -85,17 +85,9 @@ He trabajado principalmente en el mundo del calzado, habitualmente en puestos de
 
 **Proactivo**. Siempre he estado aprendiendo y/o trabajando.
 
-**Perfeccionista**. Cuido los detalles, y la **calidad de mi trabajo**.
+**Honesto**. Reconozco mis errores y aprendo de ellos. 
 
-**Exigente conmigo mismo**. Acostumbrado a trabajar **bajo presión y deadlines**.
-
-**Honesto**. Reconozco mis errores y **aprendo de ellos**. 
-
-**Trabajo en equipo, coopero,** y me realiza poder **explicar y ayudar** a mis compañeros.
-
-**Me tomo enserio lo que hago**. Procuro ser **eficaz y eficiente**.
-
-Mi meta de hoy es **esforzarme por ser mejor** que ayer.
+Habilidad para **trabajar en equipo**, y predisposición para ayudar.
 
 <br/>
 
