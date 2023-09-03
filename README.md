@@ -89,6 +89,8 @@ Mi proyecto de final de curso fue una **app reactiva** basada en **Vue.js**, con
 
 Habilidad para **trabajar en equipo**, y predisposición para ayudar.
 
+**Superación**, ganas de esforzarme y aprender.
+
 <br/>
 
 ## ¿Hablamos?
