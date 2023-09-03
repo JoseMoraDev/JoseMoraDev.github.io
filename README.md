@@ -8,10 +8,10 @@ He finalizado mis prácticas de **FCT (400 horas)** y **Formación Dual (400 hor
 
 Mi proyecto de final de curso fue una **app reactiva** basada en **Vue.js**, con **servicios REST** que la comunican mediante una **API**, con el back-end.
 
+<br/>
 
 ## Experiencia
 
-<br/>
 
 ### Formación FCT + DUAL (800 horas) - Panama jack - (Finalizada 9 de agosto 2023)
 * **Testing**
