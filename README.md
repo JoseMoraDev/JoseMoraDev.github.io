@@ -16,7 +16,7 @@ Mi proyecto de final de curso fue una **app reactiva** basada en **Vue.js**, con
 
 <br/>
 
-### Formación FCT + DUAL (800 horas) en multinacional - (Finalizada 9 de agosto 2023)
+### Formación FCT + DUAL (800 horas) - Panama jack - (Finalizada 9 de agosto 2023)
 * **Testing**
 	* Testeo de páginas web como usuario final, elaborando documentación sobre el fallo y la casuística que lo produce
 	* Simular pedidos de compra, buscar el fallo con múltiples acciones, pruebas de rendimiento.
