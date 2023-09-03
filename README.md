@@ -8,9 +8,6 @@ He finalizado mis prácticas de **FCT (400 horas)** y **Formación Dual (400 hor
 
 Mi proyecto de final de curso fue una **app reactiva** basada en **Vue.js**, con **servicios REST** que la comunican mediante una **API**, con el back-end.
 
-<img src="a.png" alt="mi_foto" width="200"/>
-
-<br/>
 
 ## Experiencia
 
