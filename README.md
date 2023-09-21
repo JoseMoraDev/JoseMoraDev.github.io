@@ -1,12 +1,9 @@
 # Jose Mora
 
-## ¿Quién soy?
+## ¡Con muchas ganas de desarrollar Frontend reactivo!
 
-Soy un programador Web junior, titulado en **CFGS Desarrollo de Aplicaciones Web**, en el IES Severo Ochoa. 
-
-He finalizado mis prácticas de **FCT (400 horas)** y **Formación Dual (400 horas)** en Panama Jack.
-
-Mi proyecto de final de curso fue una **app reactiva** basada en **Vue.js**, con **servicios REST** que la comunican mediante una **API**, con el back-end.
+¡Saludos! Soy un apasionado de las SPA reactivas y estoy buscando oportunidades para desarrollar frontend. Actualmente estoy mejorando mis habilidades aprendiendo Angular.
+Consulta mi CV, ¡hablemos!
 
 <br/>
 
