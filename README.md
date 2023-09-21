@@ -3,7 +3,8 @@
 ## ¡Con muchas ganas de desarrollar Frontend reactivo!
 
 ¡Saludos! Soy un apasionado de las SPA reactivas y estoy buscando oportunidades para desarrollar frontend. Actualmente estoy mejorando mis habilidades aprendiendo Angular.
-Consulta mi CV, ¡hablemos!
+ [Consulta mi CV en linkedin:](https://www.linkedin.com/in/josemoradev/)
+ , ¡hablemos!
 
 <br/>
 
