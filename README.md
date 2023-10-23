@@ -80,8 +80,6 @@
 
 **Proactivo**. Siempre he estado aprendiendo y/o trabajando.
 
-**Honesto**. Reconozco mis errores y aprendo de ellos. 
-
 Habilidad para **trabajar en equipo**, y predisposición para ayudar.
 
 **Superación**, ganas de esforzarme y aprender.
